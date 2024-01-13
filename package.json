@@ -1,0 +1,21 @@
+{
+  "name": "jotai-memo",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@testing-library/react": "^14.1.2",
+    "@types/react": "^18.2.47",
+    "jotai": "^2.6.1",
+    "react": "^18.2.0",
+    "vitest": "^1.2.0"
+  },
+  "peerDependencies": {
+    "jotai": "^2.0.0",
+    "react": "^17 || ^18"
+  }
+}
